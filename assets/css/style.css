@@ -1,0 +1,69 @@
+
+body{
+   text-align: center;
+   color: #000f08;
+   margin: 0;
+}
+.oscuro{
+    background-color: #000f08;
+    color: #ffffff;
+}
+.content{  
+    text-align: left;
+    width: 10rem;
+}
+.sweet-brown{
+    background-color: #a4452c;
+    padding: 2rem;
+}
+.claro{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 2rem;
+}
+.ubicacion{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 2rem;
+}
+.logo{
+    background-color: #ffffff;
+}
+.navbar{
+    background-color: #000f08;
+    text-align: left;
+    color: #ffffff;
+}
+.navbar-white{
+    background-color: #ffffff;
+}
+.evento01{
+    background-color: #ffffff;
+    text-align: left;
+    color: #000f08;
+    padding: 8rem;
+    font: normal normal normal 25px/34px Open Sans;
+
+}
+/* estilo a la etiqueta*/
+h1{
+    text-align: right;
+    color: #ffffff;
+}
+
+#subtitulo{
+    /* Soy un comentario de CSS, no confundirme con comentarios de HTML.*/
+    text-align: right;
+    color: #ffffff;
+}
+.centrado{
+    text-align: center;
+}
+.hero{
+    background-image: url(../img/bg-hero.png);
+    background-position: left ;
+    background-size: cover;
+    color:  white;
+    text-align: right;
+    padding: 8rem 0;
+}
